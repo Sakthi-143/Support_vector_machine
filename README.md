@@ -1,4 +1,4 @@
- # Support_vector_machine
+# Support_vector_machine
 
 ## SVM Assignment Readme
 
