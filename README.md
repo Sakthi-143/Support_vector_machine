@@ -1,5 +1,5 @@
 # Support_vector_machine
-
+ 
 ## SVM Assignment Readme
 
 ### Problem 1: Forestfire Size Categorization using SVM
